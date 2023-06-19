@@ -33,7 +33,7 @@
 
    <h1> Thankyou, Happy Learning </h1>
 
-   <h3> Sreenath Canada <-> Waterloo</h3>
+   <h3> <b>Sreenath Canada</b> <-> Waterloo</h3>
    <br>
    <br>
    <h2>Thanks..</h2>
