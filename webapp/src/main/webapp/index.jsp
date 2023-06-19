@@ -35,5 +35,7 @@
 
    <h3> Sreenath Canada <-> Waterloo</h3>
    <br>
+   <br>
+   <h2>Thanks..</h2>
    <h4>Have a good day</h4>
 </form>
